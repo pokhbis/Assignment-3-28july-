@@ -1,0 +1,54 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-bg{
+    background-color: #E76F51;
+}
+.bike-name{
+    font-weight: 600;
+
+}
+header{
+    background-color: #264653;
+    
+}
+#text-color{
+    color:#E76F51;
+}
+.underline{
+color:#E76F51;
+display: inline-block;
+position: relative;
+}
+.underline::after{
+    content: '';
+    height: 2px;
+    width: 40%;
+    background: #E76F51;
+    position: absolute;
+    left: calc(50% - 20%);
+    bottom: 0;
+}
+.img-size{
+    height: 250px;
+    width: 280px;S
+}
+.gray-scale{
+    filter:grayscale(100%);
+}
+.happy-client{
+    color:#E76F51;
+}
+.client-image-size{
+    height: 150px;
+    width: 150px;
+
+}
+.client-name{
+    color: #23A6F0;
+}
+.faq-img{
+    height: 580px;
+    width: 480px;
+
+}
