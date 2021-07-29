@@ -12,6 +12,9 @@ header{
     background-color: #264653;
     
 }
+/* .header-bike{
+    width: 100%;
+} */
 #text-color{
     color:#E76F51;
 }
@@ -48,7 +51,9 @@ position: relative;
     color: #23A6F0;
 }
 .faq-img{
-    height: 580px;
-    width: 480px;
-
+    height: 480px;
+    width: 450px;
+}
+.fa-star{
+    color: #E77C40;
 }
